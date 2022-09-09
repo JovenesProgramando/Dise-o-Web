@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>INVENTOS TECNOLOGICOS INNOVADORES</title>
+</head>
+<body>  
+<a name= "Principio"></a> 
+
+<h1><strong> LA FIRMA ELECTRONICA </strong> </h1>
+<H2><em>¿Cuántas veces no te viste en aprietos para conseguir una firma importante ante la ausencia de alguien?</em></H3>
+
+<H3>¡Eso es parte del pasado! La firma es una tecnología que permite que se formalicen acuerdos, verificando la identidad del firmante de manera remota. La firma electrónica es una importante tendencia entre los inventos tecnológicos en el mundo.</H3> 
+
+<img src="C:\Users\maria\OneDrive\Documents\proyecto2\firma.jpg">
+
+<h3>Ahora veamos diferentes preguntas o dudas acerca de la firma electronica:</h3>
+<h2><strong> ¿QUE ES LA FIRMA ELECTRONICA?</strong></h2>
+<h3>La <em>Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de Datos</em>, en su artículo 20, la define como un <em>“mensaje de datos que certifica la vinculación de una firma electrónica con una persona determinada, a través de un proceso de comprobación que confirma su identidad”.</em></h3> 
+
+<h3>En otras palabras, este archivo digital contiene los datos necesarios para asegurar la identidad del titular y sirve para firmar documentos electrónicos con la validación legal correspondiente.</h3>
+
+
+<h2><strong> ¿LA FIRMA ELECTRONICA TIENE VALIDEZ LEGAL?</strong></h2>
+<h3>Según la Ley de comercio electrónico, firmas electrónicas y mensajes de datos:</h3>
+
+
+<h3>Art. 14.- Efectos de la firma electrónica.- La firma electrónica tendrá igual validez y se le reconocerán los mismos efectos jurídicos que a una firma manuscrita en relación con los datos consignados en documentos escritos, y será admitida como prueba en juicio.</h3>
+<h2><strong>¿QUE GARANTIAS NOS OFRECE EL USO DE LA FIRMA ELECTRONICA?</strong></h2>
+<h3>La firma electrónica nos brinda las siguientes garantías:</h3>
+<ul type="disc">
+<li><h3><em>Autenticidad:</em> La información del documento y su firma electrónica se corresponden indudablemente con la persona que ha firmado.</h3></li>
+<li><h3><em>Integridad:</em> La información contenida en el documento electrónico, no ha sido modificada o alterada luego de su firma.</h3></li>
+<li><h3><em>No repudio:</em> La persona que ha firmado electrónicamente con un certificado emitido por una entidad de certificación acreditada no puede negar su autoría.</h3></li>
+<li><h3><em>Confidencialidad:</em> La información contenida ha sido cifrada y por voluntad del emisor, solo se permite que el receptor pueda descifrarla.</h3></li>
+</ul>
+
+<h2><strong> ¿EN QUE PUEDO USAR MI FIRMA ELECTRONICA?</strong></h2>
+<h3>Año a Año se ha ido masificando el uso de la firma electrónica, principalmente en la gestión documental digital en dónde las usan para otorgar validez legal a los diferentes documentos que se necesita que sean firmados y almacenados en algún repositorio central o en la nube. Por ende en la actualidad donde más uso se está dando es en:</h3>
+<ul type="disc">
+<li><h3>Contratos electrónicos</h3></li>
+<li><h3>Pólizas electrónicas</h3></li>
+<li><h3>Facturación electrónica</h3></li>
+<li><h3>Registros Sanitarios (VUE)</h3></li>
+<li><h3>Superintendencia de compañias</h3></li>
+</ul>
+
+<h2>CINCO VENTAJAS DE LAS FIRMAS ELECTRONICAS</h2>
+<ol><strong>
+<li><h2><em>Mas seguridad:</em></h2>
+<img src="C:\Users\maria\OneDrive\Documents\proyecto2\seguridad.jpg">
+<h3>Los documentos no se pueden alterar tras su rúbrica con este tipo de firma.</h3></li>
+
+
+<li><h2><em>Mas agilidad:</em></h2>
+<img src="C:\Users\maria\OneDrive\Documents\proyecto2\agilidad.jpg">
+<h3>Los procesos dentro de las empresas se vuelven más ágiles y, por tanto, más eficientes.</h3></li>
+
+
+<li><h2><em>Mas comodidad:</em></h2>
+<img src="C:\Users\maria\OneDrive\Documents\proyecto2\comodidad.jpg">
+<h3> Para quien debe rubricar un documento, es más cómodo y rápido usar la firma electrónica que acercarse personalmente a hacerlo. Los tiempos y desplazamientos se limitan al máximo.</h3></li>
+
+
+
+<li><h2><em>Mas confidencialidad:</em></h2>
+<img src="C:\Users\maria\OneDrive\Documents\proyecto2\confidencialidad.jpg">
+<h3>Solo emisor y receptor pueden acceder al contenido del documento.</h3></li>
+
+
+<li><h2><em>Menos papel, mas sostenible:</em></h2>
+<img src="C:\Users\maria\OneDrive\Documents\proyecto2\sostenible.jpg">
+<h3> Las empresas pueden ahorrar mucho en papel al usar únicamente documentos electrónicos y a la vez contribuir por un mundo más verde.</h3></li>
+
+<h2><em>¿Entonces estas convencido de querer tener una firma electronica?</em></h2>
+
+<a href="#Principio">Ir al Principio</a>
+</body>
+</html>
